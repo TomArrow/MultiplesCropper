@@ -1,5 +1,5 @@
 # Multiples Cropper
-Simple CLI cropper for images that makes their size divisible by/a multiple of a number of your choice.
+Simple CLI cropper for images that makes their size divisible by/a multiple of a number of your choice. Useful for preparing datasets for some machine learning algorithms like BasicSR's training for example.
 
 ## Usage
 
