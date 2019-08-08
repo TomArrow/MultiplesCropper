@@ -1,7 +1,7 @@
-#Multiples Cropper
+# Multiples Cropper
 Simple CLI cropper for images that makes their size divisible by/a multiple of a number of your choice.
 
-##Usage
+## Usage
 
 *Crop all images in current folder to be divisible by 4 (default): *
 ```MultiplesCropper *.png```
